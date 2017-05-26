@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MultiNote</string>
+    <string name="About">about</string>
+    <string name="AddNote">AddNote</string>
+    <string name="hint1">Add Description</string>
+    <string name="hint2">Enter Title</string>
+    <string name="hint3">Enter Description</string>
+    <string name="file_name">note.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="saved">Notes Saved!</string>
+    <string name="no_Data">No Notes!</string>
+    <string name="save">save</string>
+    <string name="textView">Multi-Notes</string>
+    <string name="TextView">© 2017, Pranitha Nagavelli</string>
+    <string name="textView3">Version 1.0</string>
+</resources>
